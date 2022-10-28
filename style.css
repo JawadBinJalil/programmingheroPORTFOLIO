@@ -26,4 +26,10 @@ body{
 }.top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: 98% 70%;
+}#p2{
+    padding: 0 10% 2% 0;
 }
